@@ -1,0 +1,63 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/bg/teater.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 350px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px gray;
+    letter-spacing: 4px;
+}
+
+.trending{
+    height: auto;
+    background: url("../assets/images/bg/cool.jpg");
+    background-size: cover;
+}
+
+.movieImage{
+    height: 50px;
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.movieWrapper{
+
+}
+
+.images{
+    height: 500px;
+}
+
+.superhero{
+    height: auto;
+    background: url("../assets/images/bg/car.jpg");
+    background-size: cover;
+}
+
+.nav {
+   position: fixed;
+   background-color: black;
+   width: 100%;
+   align-items: center;
+   margin-inline-start: auto;
+}
+
+.navteks {
+    font-size: 1rem;
+    font-weight: 200;
+    line-height: 1;
+    color: white;
+    letter-spacing: 1px;
+}
